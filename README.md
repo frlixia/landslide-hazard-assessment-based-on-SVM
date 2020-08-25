@@ -1,0 +1,1 @@
+# landslide-hazard-assessment-based-on-SVM
